@@ -35,7 +35,19 @@ Warning: Stream of consciousness
 - Going to see how far I can get with the ten minutes left, not sure I'm ready for JSON. http://xml.silmaril.ie/ is a great FAQ for working with XML 
 - Codepen.io -- for bigger operations, free accounts let you save what's interesting to check out later. 
 
+### Day 3: January 5, 2017
+
+**Today's Progress**
+- Couple of FCC lessons - math operations in JavaScript, included Fahrenheit to Celsius conversion
+- Rough look at programming my web app might need. So far, JSON nested in HTML for location, JS for Fahrenheit-Celsius Converter
+- Wrote out pseudocode for what I want to do. 
+
+**Thoughts**
+- Realized [this inspiring post](https://medium.freecodecamp.com/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645#.ro3w4nc1q) even uses a weather app as an example
+- Found something I needed in my life: [What Fucking Programming Language Should I Use?](http://www.wfplsiu.com)
+
 <!--**Link to work:** [Calculator App](http://www.example.com)
+
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
