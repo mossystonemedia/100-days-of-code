@@ -20,8 +20,20 @@ Goals after research:
 
 ### Day 2: January 4, 2016
 
-***Today's Progress***
+**Today's Progress**
+- Like a toddler, stumbled through the web into various data-related information in hopes of finding a way to build a single-page weather app. 
+- To avoid "repeat after me" learning, researched NOAA weather data API, but did find a good 4.5-hour course on the subject if I want to use JSON (A JavaScript subset we learn further down the road in FCC) 
+- Read GitHub's "Hello world" tutorial
 
+**Thoughts:** 
+Warning: Stream of consciousness
+- Learned APIs make smaller building blocks into bigger building blocks so it's easier for programmers to assemble something more complex. 
+- Learned about data.gov , data set to pull from would probably be METAR and CDR, but METAR is no longer operational
+- It's as if I'm drunkenly wandering from new term to new term. I don't want to look up "how to make a weather app" and just copy the code. So the data I'm getting most often from official sources is XML, which seems to need to be parsed, which can be done into javascript here: http://debeissat.nicolas.free.fr/sax.php ... may be important down the line
+- https://teamtreehouse.com/library/build-a-weather-app Aaaah! ... AAAAAAH!! 
+- More Weather API - https://www.programmableweb.com/api/noaa-national-weather-service-nws
+- Going to see how far I can get with the ten minutes left, not sure I'm ready for JSON. http://xml.silmaril.ie/ is a great FAQ for working with XML 
+- Codepen.io -- for bigger operations, free accounts let you save what's interesting to check out later. 
 
 <!--**Link to work:** [Calculator App](http://www.example.com)
 
