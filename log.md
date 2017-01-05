@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 3, 2016 
+### Day 1: January 3, 2017
 
 **Today's Progress**: Research on what, exactly, #100daysofcode is. Signed up for Gitter. Figured out where I am in Free Code Camp. Learned online courses usually charge now, even Coursera. Considered signing up for Udemy. Declared challenge acceptance on Twitter. 
 
@@ -18,7 +18,7 @@ Goals after research:
 4. When in doubt, continue on in Free Code Camp -- preferably to end of Basic Algorithm Scripting. 
 5. Still gotta find that reason to code.
 
-### Day 2: January 4, 2016
+### Day 2: January 4, 2017
 
 **Today's Progress**
 - Like a toddler, stumbled through the web into various data-related information in hopes of finding a way to build a single-page weather app. 
