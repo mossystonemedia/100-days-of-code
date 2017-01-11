@@ -46,8 +46,36 @@ Warning: Stream of consciousness
 - Realized [this inspiring post](https://medium.freecodecamp.com/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645#.ro3w4nc1q) even uses a weather app as an example
 - Found something I needed in my life: [What Fucking Programming Language Should I Use?](http://www.wfplsiu.com)
 
-<!--**Link to work:** [Calculator App](http://www.example.com)
+### Day 4: January 7, 2017
+**Today's Progress**
+- Ran back to Free Code Camp while I gather my thoughts. 
+- Signed up for CodePen, which before seemed like it wasn't available for me, but now is a godsend through FCC.
+- Started the FCC tribute page challenge. Decided to do this on Chief Peter John, who meant a lot to our community.
 
+**Thoughts**
+- Not knowing where to begin causes a lot of anxiety. 
+- Learned servers will be providing XML data through PHP, whereas I will be parsing that information through JSON so it can be read by JavaScript. I think I got that right. 
+- [W3 Schools](http://www.w3schools.com/js/js_json_php.asp) explains things pretty well, though. 
+- Oh, note to self -- [this](https://nomads.ncdc.noaa.gov/thredds/gfs4.html) seemed like a neat NOAA-based source of data
+- Links for tribute page (in research process now): [The Gospel According to Peter John](http://ankn.uaf.edu/publications/Books/Peter_John.pdf) [Tanana Chiefs Conference](https://www.tananachiefs.org/about/our-leadership/traditional-chiefs/chief-peter-john/)
+
+### Day 5: January 8, 2017
+**Today's Progress**
+- Mostly focused on research for writing portion
+- Re-learned there's CSS inline style (such as inserting style="font-size:.5em" on an HTML tag), which is what I'm looking for when not wanting to define style through a sheet or in the beginning of a header/body. 
+
+
+**Thoughts**
+- Soooo it was PAUL JOHN, not Peter John, about whom I wanted to write. This meant a day of coding that was actually more a day of research and writing, to meet this Free Code Camp requirement. 
+
+### Day 6: January 9, 2017
+**Today's Progress**
+- More research
+
+**Thoughts**
+- This is what I run into in my site, too -- very little actual coding, most of the work is in the populating. 
+
+<!--**Link to work:** [Calculator App](http://www.example.com)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
