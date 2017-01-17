@@ -75,6 +75,33 @@ Warning: Stream of consciousness
 **Thoughts**
 - This is what I run into in my site, too -- very little actual coding, most of the work is in the populating. 
 
+### Day 7: January 11, 2017
+**Today's Progress**
+- Add later
+
+**Thoughts**
+
+
+### Day 8: January 13, 2017
+**Today's Progress**
+- Add later
+
+**Thoughts**
+
+### Day 9: January 15, 2017
+- Add later
+
+**Link to work**
+
+### Day 10: January 16, 2017
+**Today's Progress**
+- Resurrected portfolio spreadsheet to start populating
+
+**Thoughts**
+
+**Link to work:**
+[Free Code Camp Personal Portfolio](https://codepen.io/mossystonemedia/pen/oBzEVw)
+
 <!--**Link to work:** [Calculator App](http://www.example.com)
 
 ### Day 0: February 30, 2016 (Example 2)
