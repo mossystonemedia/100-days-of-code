@@ -96,11 +96,13 @@ Warning: Stream of consciousness
 ### Day 10: January 16, 2017
 **Today's Progress**
 - Resurrected portfolio spreadsheet to start populating
-
+- Linked bootstrap, making things gorgeous.
+- First attempt at making fluid container to house honeycomb
 **Thoughts**
 - Reminded of wells, buttons using Bootstrap, jQuery -- may be useful for honeycomb array. Bootstrap uses jQuery? Good for rows
 - Need to do a primer on container-fluid for these kinds of buttons
 - col-xs, col-sm, col-lg in div container means the number of columns in mobile, tablet, desktop, can be combined as I used in this code from W3 schools. But has to be less than 12
+
 
 **Link to work:**
 [Free Code Camp Personal Portfolio](https://codepen.io/mossystonemedia/pen/oBzEVw)
