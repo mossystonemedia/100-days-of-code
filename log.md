@@ -98,6 +98,9 @@ Warning: Stream of consciousness
 - Resurrected portfolio spreadsheet to start populating
 
 **Thoughts**
+- Reminded of wells, buttons using Bootstrap, jQuery -- may be useful for honeycomb array. Bootstrap uses jQuery? Good for rows
+- Need to do a primer on container-fluid for these kinds of buttons
+- col-xs, col-sm, col-lg in div container means the number of columns in mobile, tablet, desktop, can be combined as I used in this code from W3 schools. But has to be less than 12
 
 **Link to work:**
 [Free Code Camp Personal Portfolio](https://codepen.io/mossystonemedia/pen/oBzEVw)
