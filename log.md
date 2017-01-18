@@ -107,6 +107,15 @@ Warning: Stream of consciousness
 **Link to work:**
 [Free Code Camp Personal Portfolio](https://codepen.io/mossystonemedia/pen/oBzEVw)
 
+### Day 11: January 17, 2017
+**Today's Progress**
+- Researched how to make hexagons using CSS
+
+**Thoughts**
+- I know we aren't supposed to copy code, but this sort of thing didn't come up in my lessons (closest thing was the border-radius trick), so... I learned the answer usually has to do with three shapes and transparencies. 
+- However, simpler code uses a polygon function and webkit, so I looked into webkit
+- [Clippy](http://bennettfeely.com/clippy/) is amazing. 
+
 <!--**Link to work:** [Calculator App](http://www.example.com)
 
 ### Day 0: February 30, 2016 (Example 2)
