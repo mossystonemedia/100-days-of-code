@@ -113,8 +113,9 @@ Warning: Stream of consciousness
 
 **Thoughts**
 - I know we aren't supposed to copy code, but this sort of thing didn't come up in my lessons (closest thing was the border-radius trick), so... I learned the answer usually has to do with three shapes and transparencies. 
-- However, simpler code uses a polygon function and webkit, so I looked into webkit
-- [Clippy](http://bennettfeely.com/clippy/) is amazing. 
+- However, simpler code uses a polygon function and webkit, so I looked into webkit. Sounds like it's an engine used by safari, chrome, but nothing else. So not fair to use IMO.
+- [Clippy](http://bennettfeely.com/clippy/) is amazing. But prefix links back to webkit. 
+- [SVG clip-path includes firefox, not IE.](https://www.smashingmagazine.com/2015/05/creating-responsive-shapes-with-clip-path/)
 
 <!--**Link to work:** [Calculator App](http://www.example.com)
 
