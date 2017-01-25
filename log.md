@@ -117,6 +117,17 @@ Warning: Stream of consciousness
 - [Clippy](http://bennettfeely.com/clippy/) is amazing. But prefix links back to webkit. 
 - [SVG clip-path includes firefox, not IE.](https://www.smashingmagazine.com/2015/05/creating-responsive-shapes-with-clip-path/)
 
+### Day 12??? January 23, 2017
+
+Wow, I didn't think I had taken 6 days off from this, have to double check this.
+
+**Today's progress**
+- Figured out how I want to arrange pages on Mossy Stone Media, going to be spending this time populating my site for a few days.
+- Filled in dates, probably have enough to go on for a test run. 
+
+### Day 13: January 24, 2017
+**Today's progress**
+
 <!--**Link to work:** [Calculator App](http://www.example.com)
 
 ### Day 0: February 30, 2016 (Example 2)
