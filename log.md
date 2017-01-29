@@ -125,9 +125,15 @@ Wow, I didn't think I had taken 6 days off from this, have to double check this.
 - Figured out how I want to arrange pages on Mossy Stone Media, going to be spending this time populating my site for a few days.
 - Filled in dates, probably have enough to go on for a test run. 
 
-### Day 13: January 24, 2017
+### Day 13: January 28, 2017
 **Today's progress**
+- Finished one year in my portfolio links, trying to figure out what's up with the product ad and where to remove that. 
 
+**Thoughts**
+- Is this going to be worth it if I switch to a hexagon system eventually?
+
+**Link to work**
+[Mossy Stone Print/Web](http://www.mossystone.media/journalism/)
 <!--**Link to work:** [Calculator App](http://www.example.com)
 
 ### Day 0: February 30, 2016 (Example 2)
