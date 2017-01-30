@@ -134,6 +134,14 @@ Wow, I didn't think I had taken 6 days off from this, have to double check this.
 
 **Link to work**
 [Mossy Stone Print/Web](http://www.mossystone.media/journalism/)
+
+### Day 14: January 29, 2017
+**Today's progress**
+- Figured out how to delete the sidebar showing up on my Kadence theme from the demo
+- Finished Sun Star entries into spreadsheet
+
+**Thoughts**
+- Why is my site so dang slow? Should I switch to Google hosting or just streamline this site? 
 <!--**Link to work:** [Calculator App](http://www.example.com)
 
 ### Day 0: February 30, 2016 (Example 2)
