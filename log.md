@@ -141,7 +141,14 @@ Wow, I didn't think I had taken 6 days off from this, have to double check this.
 - Finished Sun Star entries into spreadsheet
 
 **Thoughts**
-- Why is my site so dang slow? Should I switch to Google hosting or just streamline this site? 
+- Why is my site so dang slow? Should I switch to Google hosting or just streamline this site?
+
+### Day 15: January 31, 2017
+**Today's progress**
+- Started seeking out blog posts to beef up print side of portfolio. 
+
+**Thoughts**
+- Thinking I'm going to divide this into 6 columns so they can match up better, rather than the 3. Then smaller font for outlet and date. 
 <!--**Link to work:** [Calculator App](http://www.example.com)
 
 ### Day 0: February 30, 2016 (Example 2)
