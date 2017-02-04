@@ -149,6 +149,10 @@ Wow, I didn't think I had taken 6 days off from this, have to double check this.
 
 **Thoughts**
 - Thinking I'm going to divide this into 6 columns so they can match up better, rather than the 3. Then smaller font for outlet and date. 
+
+### Day 16: February 4, 2017
+**Today's progress**
+
 <!--**Link to work:** [Calculator App](http://www.example.com)
 
 ### Day 0: February 30, 2016 (Example 2)
