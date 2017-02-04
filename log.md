@@ -152,6 +152,12 @@ Wow, I didn't think I had taken 6 days off from this, have to double check this.
 
 ### Day 16: February 4, 2017
 **Today's progress**
+- I finished adding the list of stories to 2010, added a block quote, and fixed up formatitng
+
+**Thoughts**
+- I want to make the block quote italic
+- How do I fill the page? The search and ad are gone now, but it's still divided by columns. 
+- How should I organize these sections to be interesting, and what do I do at the top of this page to highlight my best writing?
 
 <!--**Link to work:** [Calculator App](http://www.example.com)
 
