@@ -159,6 +159,14 @@ Wow, I didn't think I had taken 6 days off from this, have to double check this.
 - How do I fill the page? The search and ad are gone now, but it's still divided by columns. 
 - How should I organize these sections to be interesting, and what do I do at the top of this page to highlight my best writing?
 
+### Day 17: February 6, 2017
+**Today's progress**
+- Ran website through [GT Metrix](http://www.gtmetrix.com) and found my site is slow mainly because of no [JavaScript Parsing](https://gtmetrix.com/defer-parsing-of-javascript.html)
+
+
+**Thoughts**
+- Learned how to [download my site](https://my.bluehost.com/cgi/help/738) using cPanel (which seems like a thing to have across websites) -- which I don't have access to right now. 
+
 <!--**Link to work:** [Calculator App](http://www.example.com)
 
 ### Day 0: February 30, 2016 (Example 2)
