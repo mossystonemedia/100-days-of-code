@@ -167,6 +167,18 @@ Wow, I didn't think I had taken 6 days off from this, have to double check this.
 **Thoughts**
 - Learned how to [download my site](https://my.bluehost.com/cgi/help/738) using cPanel (which seems like a thing to have across websites) -- which I don't have access to right now. 
 
+### Day 18: February 7, 2017
+**Today's progress**
+- Added UpDraft Plus (backup), Google Analytics (...analytics), Sucuri (security), W3 Total Cached (speed) plugins
+- Edited Print look slightly. 
+- 
+
+**Thoughts**
+- Much more awake! Asked Jeremy about backing up site. Looks like they're beefing up speed so I shouldn't need to worry about parsing right now. 
+- Learned I'm hosted by dreamhost now, not bluehost
+- Fun day! Adding plugins even if that isn't really code. It's figuring out how to add solutions to a flowchart of actions, so it's kind of like code. 
+- Consider Freshbooks and many of the other plugins  [mentioned here](http://www.wpbeginner.com/showcase/24-must-have-wordpress-plugins-for-business-websites/)
+
 <!--**Link to work:** [Calculator App](http://www.example.com)
 
 ### Day 0: February 30, 2016 (Example 2)
